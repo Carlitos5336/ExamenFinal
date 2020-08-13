@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534843547230",
+    "firebase_url": "https://examenfinal-3b062.firebaseio.com",
+    "project_id": "examenfinal-3b062",
+    "storage_bucket": "examenfinal-3b062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534843547230:android:bbd7895544b90165ca1ecf",
+        "android_client_info": {
+          "package_name": "com.example.examenfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534843547230-41ghj2msthlfiedfc3177t6i3aug7fr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6hC69l9jlFpyjwG2GgjZ1SQeH5keOyd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534843547230-41ghj2msthlfiedfc3177t6i3aug7fr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
